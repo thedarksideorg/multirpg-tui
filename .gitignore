@@ -1,0 +1,7 @@
+data/
+release/
+__pycache__/
+*.pyc
+.DS_Store
+*.txt
+*.db
